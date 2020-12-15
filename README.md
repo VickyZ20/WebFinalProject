@@ -6,7 +6,7 @@ Welcome to California Homes, your friend in finding your home in the sunny Golde
 
 The community is growing and in the homepage you can find the link to the users' list page, where we list all of our users' username. Hope you like our website and find your perfect house in California!
 
-### Screenshot
+### Website Screenshots
 
 ![](client/public/screenshot1.png)
 ![](client/public/screenshot2.png)
