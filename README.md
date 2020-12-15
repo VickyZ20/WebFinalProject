@@ -2,7 +2,7 @@
 
 ![](client/public/palmtrees.png)
 
-Welcome to California Homes, your friend in finding your home in the sunny Golden State of California! Our website shows our selected houses and apartment. You can filter housing by the number of bedrooms, and sort by prices, or post time. If you click the housing you're interested, it will take you to the house details page, where you can sign up and log in to add, edit and delete your notes and comments.
+Welcome to California Homes, your friend in finding your home in the sunny Golden State of California! Our website shows our selected houses and apartments. You can filter housing by the number of bedrooms, and sort by prices, or post time. If you click the housing you're interested, it will take you to the house details page, where you can sign up and log in to add, edit and delete your notes and comments.
 
 The community is growing and in the homepage you can find the link to the users' list page, where we list all of our users' username. Hope you like our website and find your perfect house in California!
 
