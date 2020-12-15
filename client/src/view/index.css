@@ -1,0 +1,88 @@
+body {
+  margin: 40px;
+}
+
+.oper {
+  margin: 30px;
+  display: flex;
+  justify-content: center;
+}
+.allusers {
+  display: block;
+  text-align: right;
+  margin-right: 25px;
+  color: #ff792e;
+  text-decoration: none;
+}
+.oper label {
+  margin-left: 25px;
+}
+.oper button {
+  background-color: #ffbf69;
+  color: #fff;
+  padding: 6px 12px;
+  outline: none;
+  border: 0;
+  border-radius: 8px;
+  font: 20px;
+}
+.wrap {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.wrap li {
+  width: 20vw;
+  margin: 12px;
+  list-style-type: none;
+}
+
+.wrap li img {
+  width: 100%;
+  height: 200px;
+  border-radius: 6px;
+}
+.wrap li a {
+  text-decoration: none;
+}
+.h-title {
+  font-size: 16px;
+  height: 36px;
+  margin: 5px 0;
+  width: 100%;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  /* white-space: nowrap; */
+  color: #333;
+}
+.roomNum {
+  font-size: 14px;
+  color: black;
+}
+.h-info {
+  display: flex;
+  line-height: 30px;
+  justify-content: space-between;
+  font-size: 14px;
+}
+.h-price {
+  color: #ff792e;
+}
+.h-date {
+  color: #666;
+}
+button.load {
+  display: block;
+  cursor: pointer;
+  margin: 0 auto;
+  background-color: #ffbf69;
+  color: #fff;
+  padding: 6px 12px;
+  outline: none;
+  border: 0;
+  border-radius: 8px;
+  font: 20px;
+}

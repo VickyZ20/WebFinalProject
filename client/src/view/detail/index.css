@@ -1,0 +1,86 @@
+/*body{
+    margin: ;
+}*/
+
+.swiper-container {
+  height: 270px;
+  background-color: #f0f0f0;
+}
+.swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.house-info {
+  padding: 20px;
+}
+.house-info .price {
+  color: orange;
+}
+.house-info .content {
+  line-height: 30px;
+  height: 200px;
+  overflow: hidden;
+  position: relative;
+  padding: 12px;
+}
+.house-info > p {
+  margin: 12px 0;
+}
+.house-info .content.fold {
+  height: unset;
+  padding-bottom: 40px;
+}
+.house-info .content span {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  bottom: 0;
+  left: 0;
+  background-color: #ffedc2;
+  cursor: pointer;
+  border-radius: 8px;
+}
+.publish form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.publish form button {
+  padding: 6px 12px;
+  margin-left: 12px;
+}
+.publish textarea {
+  width: 200px;
+}
+.username {
+  font-size: 13px;
+  color: #666;
+  float: left;
+  margin: 0 12px;
+}
+.comm-item {
+  display: flex;
+  justify-content: space-between;
+  line-height: 30px;
+  /*    background-color: #FED7C3;*/
+  margin: 20px;
+}
+.comm-item textarea {
+  width: 420px;
+  height: 60px;
+}
+.comm-item button {
+  cursor: pointer;
+}
+.create-time {
+  font-size: 13px;
+}
+.btns {
+  display: flex;
+  align-items: center;
+}
+.btns button {
+  padding: 4px 8px;
+  margin: 0 12px;
+}
