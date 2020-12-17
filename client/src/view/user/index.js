@@ -1,3 +1,7 @@
+//I think the whold structure is good! Better to ues hooks in some components
+//in the future, so the code may be shorter and faster!
+
+
 import React from "react";
 import { query } from "../../api/user";
 import "./index.css";
